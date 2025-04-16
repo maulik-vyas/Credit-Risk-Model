@@ -1,5 +1,3 @@
-# Credit-Risk-Model
-
 # Credit Risk Prediction for LendingClub Loans
 
 ## Overview
