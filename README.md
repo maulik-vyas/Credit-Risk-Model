@@ -1,6 +1,8 @@
 # Credit Risk Prediction for LendingClub Loans
 
-## Dashboard: https://public.tableau.com/app/profile/maulik/viz/CreditRiskSnapshot/CreditRiskSnapshot
+## Dashboard: 
+
+https://public.tableau.com/app/profile/maulik/viz/CreditRiskSnapshot/CreditRiskSnapshot
 
 ## Overview
 
