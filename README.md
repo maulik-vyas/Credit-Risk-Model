@@ -1,5 +1,7 @@
 # Credit Risk Prediction for LendingClub Loans
 
+## Dashboard: https://public.tableau.com/app/profile/maulik/viz/CreditRiskSnapshot/CreditRiskSnapshot
+
 ## Overview
 
 This project develops a machine learning model to predict loan defaults using the LendingClub dataset. The model helps financial institutions assess credit risk by identifying potential defaults, supporting risk mitigation and regulatory compliance (e.g., IFRS 9). Using a Kaggle dataset with 759,338 loans (7% default rate), I achieved a 0.768 ROC-AUC, 0.70 recall for defaults, and calculated key risk metrics: average LGD of 0.513 and EAD of $14,708.
